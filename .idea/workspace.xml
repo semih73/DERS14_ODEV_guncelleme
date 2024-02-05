@@ -4,16 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="eb6a0205-219e-4575-946f-27d48bcd857b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/GenericAlanYazdirma.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Stream_koleksiyon.java" afterDir="false" />
+    <list default="true" id="eb6a0205-219e-4575-946f-27d48bcd857b" name="Changes" comment="DERS14_ODEV">
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/ders14Guncelleme.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,19 +33,21 @@
     <option name="showLibraryContents" value="true" />
     <option name="showVisibilityIcons" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Application.GenericAlanYazdirma.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Stream_koleksiyon.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/semih_dinler/IdeaProjects/DERS14_ODEV/src/main/java/org/example/Main.java&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.GenericAlanYazdirma.executor": "Run",
+    "Application.Stream_koleksiyon.executor": "Run",
+    "Application.ders14Guncelleme.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/semih_dinler/IdeaProjects/DERS14_ODEV",
+    "onboarding.tips.debug.path": "C:/Users/semih_dinler/IdeaProjects/DERS14_ODEV/src/main/java/org/example/Main.java"
   }
-}</component>
-  <component name="RunManager" selected="Application.Stream_koleksiyon">
+}]]></component>
+  <component name="RunManager" selected="Application.ders14Guncelleme">
     <configuration name="GenericAlanYazdirma" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="org.example.GenericAlanYazdirma" />
       <module name="DERS14_ODEV" />
@@ -79,10 +74,24 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="ders14Guncelleme" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.ders14Guncelleme" />
+      <module name="DERS14_ODEV" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Stream_koleksiyon" />
+        <item itemvalue="Application.ders14Guncelleme" />
         <item itemvalue="Application.GenericAlanYazdirma" />
+        <item itemvalue="Application.Stream_koleksiyon" />
       </list>
     </recent_temporary>
   </component>
@@ -102,7 +111,20 @@
       <option name="presentableId" value="Default" />
       <updated>1706347425394</updated>
     </task>
+    <task id="LOCAL-00001" summary="DERS14_ODEV">
+      <option name="closed" value="true" />
+      <created>1706363162303</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1706363162303</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="DERS14_ODEV" />
+    <option name="LAST_COMMIT_MESSAGE" value="DERS14_ODEV" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
